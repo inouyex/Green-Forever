@@ -1,0 +1,17 @@
+.p1{ 
+    background-color : #eeeeee ;
+    width: 100%;
+    float: right;
+    position: relative;
+}
+.p1 h1{
+    padding-left: 40%;
+}
+.p1 img{
+    padding-left: 20%;
+}
+div.cont{
+    width: 980px;
+    margin-left: 20%;
+}
+    
